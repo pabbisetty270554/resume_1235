@@ -1,0 +1,53 @@
+{
+	"profile":{
+		"img":"download.jpg",
+		"name":"p.jahnavi",
+		"rollno":"16NN1A1235",
+		"Institution":"vignan's nirula"
+	},
+	"career":{
+		"info":" To use my skills in the best possible way for achieving the company’s goals"
+	},
+	"Education":[
+		{
+			"degree":"b.tech",
+			"institution":"vignan's nirula institutin of technology",
+			"yearofpassing":"2020"
+		},
+		{
+			"degree":"intermediate",
+			"institution":"vignan girls junior college",
+			"yearofpassing":"2016"
+		},  
+		{
+			"degree":"s.s.c",
+			"institution":"sriji high school",
+			"yearofpassing":"2014"
+		}
+	],
+	"language":[
+		{
+			"language":"telugu"
+		},
+		{
+			"language":"hindi"
+		},
+		{
+			"language":"english"
+		}
+	],
+	"skills":[
+		{
+			"title":"platform",
+			"content":"windows.linux"
+		},
+		{
+			"title":"programming languages",
+			"content":"c,c++,java"
+		},
+		{
+			"title":"database",
+			"content":"mysql"
+		}
+	]
+}
